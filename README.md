@@ -9,8 +9,14 @@ Hello peepee
 >>>>>>> 8ccc5da3d27b7bcc51c2340d5a2f2f3dcfbb9d8a
 =======
 Hello peepeepoopoo
+<<<<<<< HEAD
 >>>>>>> 6022d5d71f90992adad5d10ff8aa4e519dc39919
 =======
 
 Hello peepeepoopoo
 >>>>>>> 6022d5d71f90992adad5d10ff8aa4e519dc39919
+=======
+lol
+jnfjlfkjeqnjnlknalkjalkc f
+sfsfuiesifhuieui
+>>>>>>> ab6e4c14902c1ad3e6dd69ee1a24adee70ffa333
