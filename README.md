@@ -18,5 +18,13 @@ Hello peepeepoopoo
 =======
 lol
 jnfjlfkjeqnjnlknalkjalkc f
+<<<<<<< Updated upstream
 sfsfuiesifhuieui
 >>>>>>> ab6e4c14902c1ad3e6dd69ee1a24adee70ffa333
+=======
+abdqduqbduaubdqbdqodbadfadf
+
+
+lol
+>>>>>>> 5abf0717eff00fcf0694a9694fc8dcad448c47cf
+>>>>>>> Stashed changes
